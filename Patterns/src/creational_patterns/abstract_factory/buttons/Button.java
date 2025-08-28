@@ -1,4 +1,4 @@
-package abstract_factory.buttons;
+package creational_patterns.abstract_factory.buttons;
 
 /**
  * Abstract Factory assumes that you have several families of products,

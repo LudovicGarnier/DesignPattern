@@ -1,10 +1,10 @@
-package abstract_factory.example;
+package creational_patterns.abstract_factory.example;
 
-import abstract_factory.app.Application;
-import abstract_factory.factories.GUIFactory;
-import abstract_factory.factories.LinuxFactory;
-import abstract_factory.factories.MacOsFactory;
-import abstract_factory.factories.WindowsFactory;
+import creational_patterns.abstract_factory.app.Application;
+import creational_patterns.abstract_factory.factories.GUIFactory;
+import creational_patterns.abstract_factory.factories.LinuxFactory;
+import creational_patterns.abstract_factory.factories.MacOsFactory;
+import creational_patterns.abstract_factory.factories.WindowsFactory;
 
 /**
  * Demo class. Everything comes together here.

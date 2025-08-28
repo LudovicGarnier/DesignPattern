@@ -1,4 +1,4 @@
-package abstract_factory.buttons;
+package creational_patterns.abstract_factory.buttons;
 
 /**
  * All products families have the same varieties (MacOS/Windows).

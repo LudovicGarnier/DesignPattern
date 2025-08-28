@@ -1,8 +1,8 @@
-package abstract_factory.app;
+package creational_patterns.abstract_factory.app;
 
-import abstract_factory.buttons.Button;
-import abstract_factory.checkboxes.Checkbox;
-import abstract_factory.factories.GUIFactory;
+import creational_patterns.abstract_factory.buttons.Button;
+import creational_patterns.abstract_factory.checkboxes.Checkbox;
+import creational_patterns.abstract_factory.factories.GUIFactory;
 
 /**
  * Factory users don't care which concrete factory they use since they work with

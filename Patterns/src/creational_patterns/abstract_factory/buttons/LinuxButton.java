@@ -1,12 +1,12 @@
-package abstract_factory.buttons;
+package creational_patterns.abstract_factory.buttons;
 
 /**
  * All products families have the same varieties (MacOS/Windows).
  * This is a MacOS variant of a button.
  */
-public class MacOsButton implements Button {
+public class LinuxButton implements Button {
     @Override
     public void paint() {
-        System.out.println("You have created MacOsButton");
+        System.out.println("You have created LinuxButton");
     }
 }

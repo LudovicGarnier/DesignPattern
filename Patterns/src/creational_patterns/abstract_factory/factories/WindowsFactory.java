@@ -1,9 +1,9 @@
-package abstract_factory.factories;
+package creational_patterns.abstract_factory.factories;
 
-import abstract_factory.buttons.Button;
-import abstract_factory.buttons.WindowsButton;
-import abstract_factory.checkboxes.Checkbox;
-import abstract_factory.checkboxes.WindowsCheckbox;
+import creational_patterns.abstract_factory.buttons.Button;
+import creational_patterns.abstract_factory.buttons.WindowsButton;
+import creational_patterns.abstract_factory.checkboxes.Checkbox;
+import creational_patterns.abstract_factory.checkboxes.WindowsCheckbox;
 
 /**
  * Each concrete factory extends basic factory and responsible for creating

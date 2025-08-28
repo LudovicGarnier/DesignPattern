@@ -1,4 +1,4 @@
-package abstract_factory.checkboxes;
+package creational_patterns.abstract_factory.checkboxes;
 
 /**
  * All products families have the same varieties (MacOS/Windows).
