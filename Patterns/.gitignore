@@ -5,6 +5,8 @@ out/
 ../DesignPattern.iml
 ./.idea
 ../.idea
+./*.class
+*.class
 
 ### Eclipse ###
 .apt_generated

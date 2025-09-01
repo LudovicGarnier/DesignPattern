@@ -1,1 +1,1 @@
-https://refactoring.guru/design-patterns/singleton
+https://refactoring.guru/fr/design-patterns/singleton

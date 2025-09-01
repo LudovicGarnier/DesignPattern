@@ -1,1 +1,1 @@
-https://refactoring.guru/design-patterns/builder
+https://refactoring.guru/fr/design-patterns/builder

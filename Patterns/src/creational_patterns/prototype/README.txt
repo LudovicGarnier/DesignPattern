@@ -1,1 +1,1 @@
-https://refactoring.guru/design-patterns/prototype
+https://refactoring.guru/fr/design-patterns/prototype

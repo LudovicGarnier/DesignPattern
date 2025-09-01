@@ -1,1 +1,1 @@
-https://refactoring.guru/design-patterns/factory-method
+https://refactoring.guru/fr/design-patterns/factory-method
