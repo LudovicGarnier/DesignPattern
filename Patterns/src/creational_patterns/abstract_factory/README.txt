@@ -1,1 +1,1 @@
-https://refactoring.guru/design-patterns/abstract-factory
+https://refactoring.guru/fr/design-patterns/abstract-factory
